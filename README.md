@@ -31,7 +31,7 @@
 
 1. **استنساخ المشروع**
 ```bash
-git clone <repository-url>
+git clone https://github.com/just1spray/perfumes.git
 cd kings-castle-perfume
 ```
 
